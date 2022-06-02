@@ -25,6 +25,6 @@ This is a basic project which was aimed to get a hands on experience with the ab
 4. Deployment Server being used - Apache Tomcat v8.5.54
 
 ## Note
-This project is not meant for any monetized activites. **Its for learning purposes only**. Feel free to use the code if needed for academic benefits only.
+This project is meant for learning purposes only. Feel free to use the code if needed.
 
 ### Thanks & Regards <br>Swastik Sourav Sahoo
